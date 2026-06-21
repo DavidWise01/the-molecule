@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE MOLECULE",
+  "universe": "MOL · THE MOLECULE (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE MOLECULE:MOL:3076d2⟧",
+  "carbon": "the-molecule.carbon.tiff (TIFF)",
+  "silicon": "the-molecule.silicon.png (PNG)",
+  "seal_sha256": "3b7d016e0bf51e7c6e28eb3e404549edea79c39e8ac798e555818d3c32a77c01",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

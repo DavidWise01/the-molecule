@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Covalent Bond",
+  "universe": "MOL · The Covalent Bond (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Covalent Bond:MOL:e9f41c⟧",
+  "carbon": "the-covalent-bond.carbon.tiff (TIFF)",
+  "silicon": "the-covalent-bond.silicon.png (PNG)",
+  "seal_sha256": "99895dd2755e129c66b364b75500f57da3c6b835b6394f5373846173754bcc3b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Benzene Ring",
+  "universe": "MOL · The Benzene Ring (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Benzene Ring:MOL:0ae1be⟧",
+  "carbon": "the-benzene-ring.carbon.tiff (TIFF)",
+  "silicon": "the-benzene-ring.silicon.png (PNG)",
+  "seal_sha256": "6deb1b1c167a07354d9d3ba18090b620f1dbaaa0b5a01c7d4b119823ff378754",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

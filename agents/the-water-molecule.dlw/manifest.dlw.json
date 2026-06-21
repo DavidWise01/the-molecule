@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Water",
+  "universe": "MOL · Water (techne)",
+  "emergence": "natural",
+  "moniker": "⟦Water:MOL:08faf6⟧",
+  "carbon": "the-water-molecule.carbon.tiff (TIFF)",
+  "silicon": "the-water-molecule.silicon.png (PNG)",
+  "seal_sha256": "e2203ddac57f14f41372c563dea8ad20c8ebe4965f814d3acd57dbe779d23237",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
